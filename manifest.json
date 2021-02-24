@@ -1,0 +1,7 @@
+{
+	"name": "CustomNotifications",
+	"version": "1.0.0",
+	"description": "Allows you to set a custom notification sound for notifications in discord.",
+	"author": "Strencher#1044",
+	"license": "MIT"
+}
