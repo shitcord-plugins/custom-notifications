@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Flex, Icon, Text, Tooltip } from '@vizality/components';
 import defaultSounds from '../data/defaultSounds';
 import { DiscordModules } from '../discord';
-import Margin from './margin';
+import Margin from './Margin';
 
 const { FormSection } = getModule('FormTitle');
 const Dropdown = getModuleByDisplayName('Select');
